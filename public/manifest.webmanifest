@@ -1,2 +1,2 @@
 { "name": "Paisa", "short_name": "Paisa", "start_url": ".", "display": "standalone",
-  "background_color": "#ffffff", "theme_color": "#0f766e", "icons": [] }
+  "background_color": "#ffffff", "theme_color": "#0f766e", "icons": [{ "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }] }
